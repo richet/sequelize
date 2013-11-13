@@ -46,8 +46,7 @@
     "toposort-class": "~0.2.0",
     "generic-pool": "2.0.4",
     "promise": "~3.2.0",
-    "sql": "~0.28.0",
-	"msnodesql": "https://github.com/richet/msnodesql-0.2.1-v0.10-x64/tarball/df2ebe148c13fd4221ed753980a1fca2b4ce7de0"
+    "sql": "~0.28.0"
   },
   "devDependencies": {
     "sqlite3": "~2.1.12",
